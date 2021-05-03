@@ -2,7 +2,7 @@
 
 Automation tests for online store.
 
-To run the tests you should intstall (latest version):
+To run the tests you should install (latest version):
 pip
 requests
 selenium
